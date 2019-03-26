@@ -1,0 +1,4 @@
+# Dont track folders
+venv/
+.idea/
+.DS_Store
